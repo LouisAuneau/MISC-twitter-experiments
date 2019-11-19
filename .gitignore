@@ -1,4 +1,5 @@
 .env
 .vscode/
 data/*
-.ipynb_checkpoints/
+!data/.gitkeep
+.ipynb_checkpoints/*
