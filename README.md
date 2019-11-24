@@ -23,5 +23,6 @@ To load tweets inside a *csv* file, use the `data_load.ipynb` notebook.
 
 ## Todo
 
-[x] Load tweets
-[ ] Topic extraction per account
+[x] Load tweets  
+[x] Data cleaning and preparation  
+[ ] Topic extraction per account  (LDA + other methods if necessary ?)
